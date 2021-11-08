@@ -1,0 +1,11 @@
+li {
+    list-style-type: none;
+}
+
+span {
+    cursor: pointer;
+}
+
+i:hover {
+    background: rgba(0, 0, 0, 0.2);
+}
